@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">place_bookmark</string>
+    <string name="edit_message">장소 입력</string>
+    <string name="button_send">Send</string>
+</resources>
